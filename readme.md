@@ -9,11 +9,11 @@ Innovative Technology Professional | Passionate Lifelong Learner | Giant Nerd <b
 
 A talk about communicating and documenting architectural decisions (duh).
 
-TALK ABSTRACT
+Talk Abstract
 -------------
 Making, documenting, and communicating architectural decisions is one of the hardest things to do, especially in this new age of "agile" architecture and two-pizza teams building and supporting their own software. This talk will go over three techniques to help solve these communication and decision making processes.
 
-TALK DESCRIPTION
+Talk Description
 ----------------
 As technologists and technology leaders, we live in an interesting and chaotic time. The days of ivory-tower enteprise architects doling out treatises on approved technologies are over; instead we have agile, two-pizza teams building using emerging architecture techniques and the latest languages. How do we get a handle on this environment and make sure what's being done is documented and communicated out to the larger organization?
 
