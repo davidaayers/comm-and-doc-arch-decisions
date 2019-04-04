@@ -3,7 +3,7 @@ Communicating and Documenting Architectural Decisions
 
 Presented by: David Ayers<br>
 Innovative Technology Professional | Passionate Lifelong Learner | Giant Nerd <br>
-[Full Bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md])<br>
+[Full Bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md)<br>
 [@iamagiantnerd](https://twitter.com/iamagiantnerd), iamagiantnerd@gmail.com
 
 
