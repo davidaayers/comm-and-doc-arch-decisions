@@ -6,7 +6,6 @@ Innovative Technology Professional | Passionate Lifelong Learner | Giant Nerd <b
 [Full Bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md)<br>
 [@iamagiantnerd](https://twitter.com/iamagiantnerd), iamagiantnerd@gmail.com
 
-
 A talk about communicating and documenting architectural decisions (duh).
 
 Talk Abstract
@@ -24,3 +23,10 @@ In this talk, I'll discuss three techniques that can be used to help:
 * Building Reference Implementations
 
 All of these may not be right for everyone, but taken together, they can be a powerful force to help document and communicate the decisions that your teams are already making every day.
+
+Sketchnote
+----------
+
+The awesome [Denise Yu](https://twitter.com/deniseyu21) did this sketchnote of my talk at the #LeadDevNewYork conference, and she kindly agreed to let me save it here. Check out her art on her website: http://www.deniseyu.io/art 
+
+![Badass sketch note of my talk!](sketchnotes.jpg)
