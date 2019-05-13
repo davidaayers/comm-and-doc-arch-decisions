@@ -31,8 +31,9 @@ The awesome [Denise Yu](https://twitter.com/deniseyu21) did this sketchnote of m
 
 ![Badass sketch note of my talk!](sketchnotes.jpg)
 
-Links included:
----------------
+Links:
+------
+
 The following links are referenced in the presentation:
 
 - Original Blog Post about ADRs:
