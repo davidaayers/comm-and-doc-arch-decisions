@@ -30,3 +30,18 @@ Sketchnote
 The awesome [Denise Yu](https://twitter.com/deniseyu21) did this sketchnote of my talk at the #LeadDevNewYork conference, and she kindly agreed to let me save it here. Check out her art on her website: http://www.deniseyu.io/art 
 
 ![Badass sketch note of my talk!](sketchnotes.jpg)
+
+Links included:
+---------------
+The following links are referenced in the presentation:
+
+- Original Blog Post about ADRs:
+  * Michael Nygard: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+- Tools:
+  * Command line ADR tool: https://github.com/npryce/adr-tools
+  * Compendium of ADR information: https://adr.github.io/
+- Real world examples of ADRs:
+  * https://github.com/npryce/adr-tools/tree/master/doc/adr
+  * https://github.com/arachne-framework/architecture
+  * https://github.com/marc-bouvier/trello2eisenhower/tree/master/adr
+  * https://github.com/hilton/scripting-docs/tree/master/ADR
