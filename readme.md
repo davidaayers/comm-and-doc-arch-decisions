@@ -45,3 +45,8 @@ The following links are referenced in the presentation:
   * https://github.com/arachne-framework/architecture
   * https://github.com/marc-bouvier/trello2eisenhower/tree/master/adr
   * https://github.com/hilton/scripting-docs/tree/master/ADR
+  
+Videos:
+-------
+
+[Lead Dev New York](https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be) 4/30/2019
