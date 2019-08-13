@@ -24,6 +24,8 @@ In this talk, I'll discuss three techniques that can be used to help:
 
 All of these may not be right for everyone, but taken together, they can be a powerful force to help document and communicate the decisions that your teams are already making every day.
 
+There are two versions of the talk, one that's 30 minutes (I presented this at The Lead Dev NY, 2019), and one that's 60 minutes (I'm presenting this at the Phx DevOps Meetup in August).
+
 Sketchnote
 ----------
 
