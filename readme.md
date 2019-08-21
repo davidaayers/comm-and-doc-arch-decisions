@@ -40,6 +40,7 @@ The following links are referenced in the presentation:
 
 - Original Blog Post about ADRs:
   * Michael Nygard: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+  * Picture of Michael taken from his public github profile: https://github.com/mtnygard
 - Tools:
   * Command line ADR tool: https://github.com/npryce/adr-tools
   * Compendium of ADR information: https://adr.github.io/
@@ -51,6 +52,13 @@ The following links are referenced in the presentation:
 - Article about Architecture Guilds & ADRs at scale @ Comcast
   * https://www.infoq.com/articles/architecture-guild-800-friends/
   
+Credits:
+--------
+Icons:
+
+* Emoji icons by [Joypixels](https://joypixels.com)
+* Dance party icon by [Adioma](https://adioma.com)
+
 Videos:
 -------
 
