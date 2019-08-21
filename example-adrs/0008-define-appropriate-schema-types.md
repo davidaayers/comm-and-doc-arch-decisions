@@ -10,8 +10,6 @@ Througout this discussion (mostly happening in our DB Working Group), we have ag
 
 Here are the notes from the original discussion:
 
-http://wiki.containerstore.com/display/DB/2016-04-13+Meeting+Notes
-
 ## Decision
 
 We will use the following definitions for the different types of schemas in our databases:
