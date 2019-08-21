@@ -5,7 +5,9 @@ Date: 09/27/2017
 ## Context
 
 We manage many different versions of applications, services and libraries across multiple environments.
+
 As we think about how we want to identify our artifacts with version numbers, we have the following goals:
+
 * As much as possible we want to follow existing industry conventions so that
   * it's easier for new developers to understand
   * it's easier for external parties to adopt and understand any APIs we expose
@@ -33,6 +35,7 @@ As we think about how we want to identify our artifacts with version numbers, we
 * We would like to be able to easily trace back to the commit from which an artifact was built.
 
 It's also helpful to keep in mind that dependencies between our components take a couple of different forms:
+
 * End-user applications that have no other components that depend on them.
   Therefore there's really no such thing as a backward-incompatible change.
 * Services that expose APIs provide their updates automatically to consumers.
@@ -77,9 +80,10 @@ Given a version number MAJOR.MINOR.PATCH-BUILD-COMMIT:
 
 Some frameworks have an established place to record the version information
 (e.g. Maven `pom.xml`, RubyGems `.gemspec`, Node `package.json`) and we should follow those conventions.
-In cases where we are developing software and there is no established standard
-for where to store the version information,
-we will create a `.version` file in the application's root directory that will be tracked in git.
+
+In cases where we are developing software and there is no established standard for where to store the 
+version information, we will create a `.version` file in the application's root directory that will be tracked in git.
+
 The contents of the file will be one line of the form
 ```
 [MAJOR].[MINOR].[PATCH]
@@ -103,7 +107,9 @@ The build.properties file will only exist in the artifact and will not be commit
 #### Releasing
 
 After an artifact has QA's approval, it can be "released."
+
 This means that it is the most stable and final artifact for that MAJOR.MINOR.PATCH. 
+
 Releasing an artifact generally involves:
 * Identifying the appropriate MAJOR.MINOR.PATCH release label
 * Tagging the commit in git with that release label
