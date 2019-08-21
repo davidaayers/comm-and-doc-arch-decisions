@@ -48,6 +48,8 @@ The following links are referenced in the presentation:
   * https://github.com/arachne-framework/architecture
   * https://github.com/marc-bouvier/trello2eisenhower/tree/master/adr
   * https://github.com/hilton/scripting-docs/tree/master/ADR
+- Article about Architecture Guilds & ADRs at scale @ Comcast
+  * https://www.infoq.com/articles/architecture-guild-800-friends/
   
 Videos:
 -------
